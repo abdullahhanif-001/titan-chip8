@@ -1,0 +1,13 @@
+# Binaries and object files
+bin/*.exe
+bin/*.obj
+*.pdb
+*.ilk
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated
+.DS_Store
+Thumbs.db
